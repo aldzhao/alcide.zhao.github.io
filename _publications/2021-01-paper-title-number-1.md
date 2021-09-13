@@ -1,0 +1,12 @@
+---
+title: "11: How well do the CMIP6 models simulate dust aerosols? "
+collection: publications
+excerpt: ''
+date: 2021-09-13
+venue: 'Atmospheric Chemistry and Physics'
+paperurl: 'https://acp.copernicus.org/preprints/acp-2021-578/'
+---
+Mineral dust impacts key processes in the Earth system, including the radiation budget, clouds, and nutrient cycles. We evaluate dust aerosols in 16 models participating in the sixth phase of the Coupled Model Intercomparison Project (CMIP6) against multiple reanalyses and satellite observations. Most models, and particularly the multi-model ensemble mean (MEM), capture the spatial patterns and seasonal cycles of global dust processes well. However, large uncertainties and inter-model diversity are found. For example, global dust emissions, primarily driven by model-simulated surface winds, vary by a factor of 5 across models, while the MEM estimate is double the amount in reanalyses. The ranges of CMIP6 model-simulated global dust emission, deposition, burden and optical depth (DOD) are larger than previous generations of models. Models present considerable disagreement in dust seasonal cycles over North China and North America. Here, DOD values are overestimated by most CMIP6 models, with the MEM estimate 1.2–1.7 times larger compared to satellite and reanalysis datasets. Such overestimates can reach up to a factor of 5 in individual models. Models also fail to reproduce some key features of the regional dust distribution, such as dust accumulation along the southern edge of the Himalayas. Overall, there are still large uncertainties in CMIP6 models’ simulated dust processes, which feature inconsistent biases throughout the dust lifecycle between models, particularly in the relationship connecting dust mass to DOD. Our results imply that modelled dust processes are becoming more uncertain as models become more sophisticated. More detailed output relating to the dust cycle in future intercomparison projects will enable better constraints of global dust cycles, and enable the potential identification of observationally-constrained links between dust cycles and optical properties.
+[Download paper here]https://acp.copernicus.org/preprints/acp-2021-578/)
+
+How to cite: Zhao, A., Ryder, C. L., and Wilcox, L. J.: How well do the CMIP6 models simulate dust aerosols?, Atmos. Chem. Phys. Discuss. [preprint], https://doi.org/10.5194/acp-2021-578, in review, 2021. 
